@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Empowering Families with 3 Philosphies
+      text: Empowering Families with 3 Philosophies
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
