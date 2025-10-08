@@ -409,8 +409,7 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: Haritika Jolly
-        text: |
-          Best Service in Insurance
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
