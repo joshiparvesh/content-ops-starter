@@ -186,7 +186,7 @@ sections:
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
-        altText: Sanity logo
+        altText: Bmo Logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
