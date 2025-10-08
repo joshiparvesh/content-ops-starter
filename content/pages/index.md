@@ -171,7 +171,7 @@ sections:
   - subtitle: Companies we work with
     images:
       - url: /images/empathy-logo.svg
-        altText: Empathy logo
+        altText: BMO logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
